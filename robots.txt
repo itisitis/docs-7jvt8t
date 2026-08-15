@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-emw2pe.indocuansite.online/sitemap.xml
